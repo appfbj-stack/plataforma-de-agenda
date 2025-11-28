@@ -1,0 +1,8 @@
+{
+  "name": "Agendapro Universal",
+  "description": "Uma plataforma SaaS universal de agendamento multi-profissões com experiência visual premium e PWA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
